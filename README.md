@@ -14,6 +14,4 @@ GitHub에서 repository를 생성하고, Sourcetree를 통해 로컬에서 파�
 4. 해당 커밋을 원격 GitHub repository로 push
 5. Sourcetree 화면을 캡처하여 `sourcetree_capture.pdf` 파일로 저장
 6. PDF 파일을 로컬 저장소에 커밋 후, GitHub repository로 push
----
-##Repository URL
-<git@github.com:parkour051212-del/github-hw.git>
+
